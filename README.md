@@ -1,2 +1,2 @@
 # Analise-Basica-Dados
-Aula Victor Ikoma, BootCamp ElasTech - Pagseguro
+Aula Victor Icoma, BootCamp ElasTech - Pagseguro
